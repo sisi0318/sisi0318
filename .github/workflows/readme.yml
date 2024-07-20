@@ -5,6 +5,7 @@ on:
       - main
   schedule:
     - cron: '0 */3 * * *'
+  workflow_dispatch:
   
 jobs:
   build:
@@ -38,7 +39,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: huige233
+          user: sisi0318
           filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
