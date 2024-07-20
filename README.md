@@ -28,7 +28,7 @@ can use hide=glsl,js
 
 -   Ask me in [Issue](https://github.com/sisi0318/sisi0318/issues)
 -   My [GitHub](https://github.com/sisi0318)
--   E-mail: ***
+-   E-mail: ****
 -   ![这是访问量计数，如果看不到请刷新](https://visitor-badge.laobi.icu/badge?page_id=sisi0318.README)
 
 
